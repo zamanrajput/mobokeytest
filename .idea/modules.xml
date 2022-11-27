@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mobokeytest.iml" filepath="$PROJECT_DIR$/.idea/modules/mobokeytest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mobokeytest.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mobokeytest.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mobokeytest.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mobokeytest.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mobokeytest.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mobokeytest.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mobokeytest.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mobokeytest.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mkl3stepsupdatedlib/mobokeytest.mkl3stepsupdatedlib.iml" filepath="$PROJECT_DIR$/.idea/modules/mkl3stepsupdatedlib/mobokeytest.mkl3stepsupdatedlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mkl3stepsupdatedlib/mobokeytest.mkl3stepsupdatedlib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mkl3stepsupdatedlib/mobokeytest.mkl3stepsupdatedlib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mkl3stepsupdatedlib/mobokeytest.mkl3stepsupdatedlib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mkl3stepsupdatedlib/mobokeytest.mkl3stepsupdatedlib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mkl3stepsupdatedlib/mobokeytest.mkl3stepsupdatedlib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mkl3stepsupdatedlib/mobokeytest.mkl3stepsupdatedlib.unitTest.iml" />
+    </modules>
+  </component>
+</project>
